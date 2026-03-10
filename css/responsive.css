@@ -1,1 +1,19 @@
 /* Soluzione qui */
+
+/*
+    =================================
+    Modalità LARGE MOBILE 576px BONUS
+    =================================
+*/
+
+@media screen and (min-width: 576px) {
+    .presentation img {
+        float: left;
+        margin: 10px;
+    }
+
+    .social-networks .btn {
+        width: 12%;
+        transition: all 0.3s ease;
+    }
+}

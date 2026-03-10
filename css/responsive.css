@@ -61,7 +61,13 @@
     }
 }
 
-@media screen and (min-width: 992px) {
+/*
+    ===================================
+    Modalità DESKTOP 992px
+    ===================================
+*/
+
+@media screen and (min-width: 993px) {
 
     #topbar {
         margin-bottom: 20px;

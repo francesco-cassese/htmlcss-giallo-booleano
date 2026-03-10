@@ -52,12 +52,12 @@
     .quick-notes ul {
         display: flex;
         flex-wrap: wrap;
-        gap: 20px;
+        gap: 10px;
     }
 
     .quick-notes li {
         display: flex;
-        flex-basis: calc((100% / 3) - (20px * 2) / 3);
+        flex-basis: calc((100% / 3) - (10px * 2) / 3);
     }
 
     .social-networks .btn {

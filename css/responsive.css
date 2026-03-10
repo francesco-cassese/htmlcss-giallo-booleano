@@ -60,3 +60,26 @@
         display: block;
     }
 }
+
+@media screen and (min-width: 992px) {
+
+    #topbar {
+        margin-bottom: 20px;
+    }
+
+    .recipe-card {
+        display: flex;
+    }
+
+    #logo {
+        font-size: 4.5rem;
+    }
+
+    .quick-notes ul {
+        display: inline;
+    }
+}
+
+.recipe-video {
+    flex-grow: 2;
+}

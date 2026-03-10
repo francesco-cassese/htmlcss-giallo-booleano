@@ -29,7 +29,26 @@
         display: block;
     }
 
+    #logo {
+        font-size: 3.5em;
+    }
+
+    main {
+        padding: 40px;
+    }
+
     .recipe-origin {
         display: inline;
+    }
+
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .quick-notes li {
+        display: flex;
+        flex-basis: calc((100% / 3) - (20px * 2) / 3);
     }
 }

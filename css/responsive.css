@@ -78,8 +78,13 @@
     .quick-notes ul {
         display: inline;
     }
-}
 
-.recipe-video {
-    flex-grow: 2;
+    .recipe-video {
+        flex-grow: 2;
+    }
+
+    .recipe-info {
+        height: 100%;
+    }
+
 }

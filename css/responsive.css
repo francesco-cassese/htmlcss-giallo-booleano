@@ -13,7 +13,7 @@
     }
 
     .social-networks .btn {
-        width: 12%;
+        width: 10%;
         transition: all 0.3s ease;
     }
 }
@@ -50,5 +50,13 @@
     .quick-notes li {
         display: flex;
         flex-basis: calc((100% / 3) - (20px * 2) / 3);
+    }
+
+    .social-networks .btn {
+        width: 15%;
+    }
+
+    .ads {
+        display: block;
     }
 }

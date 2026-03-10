@@ -16,6 +16,14 @@
         width: 10%;
         transition: all 0.3s ease;
     }
+
+    .social-networks .btn:hover {
+        background-color: #F1F3F5;
+        box-shadow: rgba(0, 0, 0, 0.1);
+        transform: translateY(-1px);
+    }
+
+
 }
 
 /*

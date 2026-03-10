@@ -80,6 +80,7 @@
     }
 
     .recipe-video {
+        max-height: 300px;
         flex-grow: 2;
     }
 

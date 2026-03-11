@@ -56,7 +56,6 @@
     }
 
     .quick-notes li {
-        display: flex;
         flex-basis: calc((100% / 3) - (10px * 2) / 3);
     }
 

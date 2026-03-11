@@ -101,6 +101,11 @@
         flex-grow: 2;
     }
 
+    .recipe-video iframe {
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+
     .recipe-info {
         flex-grow: 1;
     }

@@ -92,6 +92,10 @@
         display: inline;
     }
 
+    .quick-notes li {
+        margin: 25px 0;
+    }
+
     .recipe-video {
         max-height: 450px;
         flex-grow: 2;
